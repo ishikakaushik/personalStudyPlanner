@@ -4,7 +4,7 @@ A Streamlit application that generates a detailed, customized study plan based o
 
 Features
 
-Dynamic Course & Deadline Entry: Add multiple courses with deadlines on the fly.
+Course & Deadline Entry: Add multiple courses with deadlines on the fly.
 
 Personal Preferences: Specify your study habits (e.g., morning sessions, session length).
 
